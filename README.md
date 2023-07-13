@@ -1,2 +1,1 @@
-# MDL
-Machine and Data, Learning Course Assignments
+# Machine and Data, Learning Course Assignments
